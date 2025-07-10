@@ -1,0 +1,15 @@
+2025-07-09 18:46:06,244:INFO:Initialized Binance Futures Testnet client
+2025-07-09 18:46:06,245:INFO:Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 3.0}
+2025-07-09 18:46:06,703:ERROR:Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-09 18:48:49,512:INFO:Initialized Binance Futures Testnet client
+2025-07-09 18:48:49,512:INFO:Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 3.0}
+2025-07-09 18:48:50,257:ERROR:Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-09 18:50:28,530:INFO:Initialized Binance Futures Testnet client
+2025-07-09 18:50:28,531:INFO:Placing order: {'symbol': 'ETHUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 4.0}
+2025-07-09 18:50:28,935:ERROR:Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-09 18:51:54,533:INFO:Initialized Binance Futures Testnet client
+2025-07-09 18:51:54,534:INFO:Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 3.0}
+2025-07-09 18:51:54,841:ERROR:Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-09 18:54:16,982:INFO:Initialized Binance Futures Testnet client
+2025-07-09 18:54:16,983:INFO:Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 3.0}
+2025-07-09 18:54:17,325:ERROR:Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
